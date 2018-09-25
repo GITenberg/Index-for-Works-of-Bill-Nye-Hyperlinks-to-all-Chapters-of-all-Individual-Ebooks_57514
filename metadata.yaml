@@ -1,0 +1,33 @@
+_repo: Index-for-Works-of-Bill-Nye-Hyperlinks-to-all-Chapters-of-all-Individual-Ebooks_57514
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nye, Bill
+    aliases:
+    - Nye, Edgar Wilson
+    - Nye, Edgar W. (Edgar Wilson)
+    birthdate: 1850
+    deathdate: 1896
+    gutenberg_agent_id: '2704'
+    url: http://www.gutenberg.org/2009/agents/2704
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Wilson_Nye
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2018-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57514'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Index for Works of Bill Nye
+
+  Hyperlinks to all Chapters of all Individual Ebooks'
+url: http://www.gutenberg.org/ebooks/57514
